@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React, Nextjs, AI & ML**
 
-- 👨‍💻 All of my projects are available at [https://malviyaaksh.000webhostapp.com/](https://malviyaaksh.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [Visit All Repositories](https://github.com/aksh978?tab=repositories)
 
 - 💬 Ask me about **React, nodejs, expressjs, Mongodb**
 
 - 📫 How to reach me **malviyaaksh@gmail.com**
 
-- 📄 Know about my experiences [https://malviyaaksh.000webhostapp.com/](https://malviyaaksh.000webhostapp.com/)
+- 📄 Know about my experiences [Visit My Website](https://akshmalviya.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
