@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksh978" alt="aksh978" /></a> </p>
 
-- 🔭 I’m currently working on [Camping Website](https://github.com/aksh978/Yelp-campground)
+- 🔭 I’m currently working on [Login Authentication (Nextjs)](https://github.com/aksh978/Login-Authentication-Nextjs)
 
 - 🌱 I’m currently learning **React, Nextjs, AI & ML**
 
